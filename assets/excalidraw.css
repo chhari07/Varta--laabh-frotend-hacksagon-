@@ -1,0 +1,13 @@
+/* excalidraw.css */
+:root {
+  --color-primary: #1a73e8;
+  --color-bg: #ffffff;
+  --color-text: #000000;
+  --color-selection: #d1e3ff;
+  --color-border: #dcdcdc;
+}
+
+.excalidraw {
+  font-family: 'Virgil', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
